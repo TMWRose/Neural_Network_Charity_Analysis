@@ -2,6 +2,8 @@
 
 ## Overview
 
+In this module we helped Becks, a data scientist and programmer for the nonproft foundation Alphabet Soup, analyze data to find high risk organizations the company shouldn't donate to. We used a deep learning neural network to analyze all inputs to produce a mathmatically sound decision. 
+
 ## Results
 
 ### Data Preprocessing
