@@ -10,21 +10,21 @@ In this module we helped Becks, a data scientist and programmer for the nonproft
 
 1. **What variable(s) are considered the target(s) for your model?**
 
-  - 
+  - The target was IS_SUCCESSFUL
   
 2. **What variable(s) are considered to be the features for your model?**
 
-  - 
+  - APPLICATION_TYPE and CLASSIFICATION were the features used
   
 3. **What variable(s) are neither targets nor features, and should be removed from the input data?**
 
-  - 
+  - EIN and NAME were removed from the data
   
 ### Compiling, Training, and Evaluating the Model
 
 1. **How many neurons, layers, and activation functions did you select for your neural network model, and why?**
 
-  - 
+  - I had 
   
 2. **Were you able to achieve the target model performance?**
 
