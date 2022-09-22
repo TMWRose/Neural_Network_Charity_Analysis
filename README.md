@@ -35,3 +35,5 @@ In this module we helped Becks, a data scientist and programmer for the nonproft
   - I added training variables, used SVM fit, decreased the number of notes, and added checkpoints.
   
 ## Summary
+
+Unfotunatly, since my code got stuck, I couldn;t see the final output. However, I do think a random forest classifier model would work better than a deep neural network. From what we practiced in the module, it seemed that RFC produced better accuracy than neural network model. 
