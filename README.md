@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this module we helped Becks, a data scientist and programmer for the nonproft foundation Alphabet Soup, analyze data to find high risk organizations the company shouldn't donate to. We used a deep learning neural network to analyze all inputs to produce a mathmatically sound decision. 
+In this module we helped Becks, a data scientist and programmer for the nonprofit foundation Alphabet Soup, analyze data to find high risk organizations the company shouldn't donate to. We used a deep learning neural network to analyze all inputs to produce a mathematically sound decision. 
 
 ## Results
 
@@ -28,7 +28,7 @@ In this module we helped Becks, a data scientist and programmer for the nonproft
   
 2. **Were you able to achieve the target model performance?**
 
-  - Unknown, when I ran the code it got stuck on the training section of the code with SVM fit foor 4 hours, so I had to kill the run. I assume that it would eventually work though, but I do not have time to confirm at the moment. 
+  - Unknown, when I ran the code it got stuck on the training section of the code with SVM fit for 4 hours, so I had to kill the run. I assume that it would eventually work though, but I do not have time to confirm at the moment. 
   
 3. **What steps did you take to try and increase model performance?**
 
@@ -36,4 +36,4 @@ In this module we helped Becks, a data scientist and programmer for the nonproft
   
 ## Summary
 
-Unfotunatly, since my code got stuck, I couldn;t see the final output. However, I do think a random forest classifier model would work better than a deep neural network. From what we practiced in the module, it seemed that RFC produced better accuracy than neural network model. 
+Unfortunately, since my code got stuck, I couldn’t see the final output. However, I do think a random forest classifier model would work better than a deep neural network. From what we practiced in the module, it seemed that RFC produced better accuracy than neural network model.
